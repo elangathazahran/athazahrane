@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Elang Atha Zaharn</h1>
 <h3 align="center">I 'am Frontend Developer From Indonesia</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300" height="300" style="object-fit: cover;" alt="coding">
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="300" height="300" style="object-fit: cover; border-radius: 7px; margin: 0 30px;" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athazahrane&label=Profile%20views&color=0e75b6&style=flat" alt="athazahrane" /> </p>
 
